@@ -17,7 +17,7 @@ This repository contains the available extension catalogues for the [Anikku](htt
 # Manual install
 just paste this into your anime repo
 ```
-https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json
+https://raw.githubusercontent.com/momo/anime-repo/repo/index.min.json
 ```
 
 # Usage
